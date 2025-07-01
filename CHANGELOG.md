@@ -1,7 +1,16 @@
-# Changelog
-
+> `Changelog:`
 > All significant changes to this project will be documented here.
+---
 
+> [2.0.0]
+>
+> - Improved the more complete architecture detector a bit.
+> - Fixed an issue with `emoji` not working properly.
+> - Fixed module.prop detection on `KSU/KSUN` users.
+> - Updated `uninstall.sh` to be cleaner and more optimal.
+> - Improvements to module.prop in the resetdns.sh section to make it more optimal and neat.
+> - Fixed and updated the `webui` appearance to be a bit more elegant.
+> - Dynamically boosts internet speed by applying an available TCP congestion control algorithm and maximizing TCP buffer settings.
 ---
 
 > [1.0.0]

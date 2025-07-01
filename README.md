@@ -9,7 +9,7 @@
 > Features 🚀:
 > 1. Automatically configure custom DNS to speed up connections and block ads or trackers. ✔️
 > 2. Provide a local web page as a DNS control center accessible via a browser. ✔️
-> 3. Boost internet speed with the TCP `BBR` algorithm and large TCP buffers. ✔️
+> 3. Boosts internet speed using dynamic TCP algorithms and optimized buffers. ✔️
 > 4. Automatically flush the DNS resolver or reset Wi-Fi so DNS changes take effect immediately. ✔️
 > 5. Automatically disable Private DNS on Android 9–10 to avoid conflicts. ✔️
 > 6. Offer additional network tweaks for maximum stability and performance. ✔️
