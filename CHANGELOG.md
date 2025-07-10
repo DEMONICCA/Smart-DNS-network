@@ -1,5 +1,5 @@
 > `Changelog:`
-> All significant changes to this project will be documented here.
+> - All significant changes to this project will be documented here.
 ---
 
 > [2.0.0]
