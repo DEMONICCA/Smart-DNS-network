@@ -21,31 +21,36 @@
 > [!TIP]
 > 1. Supports `Magisk` `KernelSU - NEXT` `APatch` dan `SukiSU`.
 > 2. Minimum Android `9 sdk 28`.
-> 3. Download the module here [TELEGRAM](https://t.me/modulkuntul)
-> 4. Check for changes with the `Termux` command `su -c sqlite3`.
+> 3. Check for changes with the `Termux` command `su -c getprop | grep dns`.
+> 4. To check the changes from iptables `su` `iptables -t nat -L PREROUTING -n -v --line-numbers`.
+> 5. Same as above to check ip6tables `ip6tables -t nat -L PREROUTING -n -v --line-numbers`.
+<hr/>
+
+> Download the module here 📥:                  
+> [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
+> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
 <hr/>
 
 > [!WARNING]
 > Disclaimers 🛡️:
-> - This module is provided "as is" without warranty. Use of this module is at your own risk. Make sure to back up original data and configuration before installation. The author is not responsible for any damage or problems that may arise.
+> - This module is provided as is, without warranty of any kind. Any risks of use are entirely your responsibility. It is recommended to back up important data and configuration before installation. This module was developed in good faith to provide benefits, but the author is not responsible for any damage or problems that may occur as a result of its use.
 <hr/>
 
 > [!CAUTION]
 > Warning ☢️:
-> - This module is used at your own risk. The developer is not responsible for any damage that may result from the installation or use of this module.
-> - This module modifies the system configuration and network parameters of your device. Use of this module may cause system instability if not used properly.
-> - Use this module at your own risk. Misconfiguration may cause problems such as bootloop or system instability.
-> - Make sure you have access to recovery mode (TWRP/ADB) before installing this module, just in case something goes wrong.
+> 1. Use of this module is the sole responsibility of the user. The developer is not responsible for any damage or malfunctions that may occur as a result of the installation or use of this module.
+> 2. This module can modify certain parts of the system. Under certain conditions or configurations, misuse may cause problems such as bootloops or system instability.
+> 3. Before proceeding with the installation, make sure you have access to a recovery mode such as TWRP or ADB as a safety measure in case something goes wrong.
+> 4. This module customizes system and network parameters to enhance performance and connectivity. While thoroughly tested, improper use or modification may lead to instability. Please follow the author's recommendations for optimal results and system safety.
 <hr/>
 
 <div align="center">
-  If you like my work, please follow me or star my work on GitHub       
- 
-  You can also show your concern by donating below.
+If you like this work, please star ⭐ or follow me on GitHub.
+Your support means a lot and helps me to continue developing open source projects.
+You can also show further appreciation by donating below
 <div align="center">
- </div>
 <hr/>
-  
+
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/illumi666)
 [![](https://img.shields.io/badge/-Trakteer-red?style=for-the-badge)](https://trakteer.id/demonica/tip)
 [![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/DEMONICA)
