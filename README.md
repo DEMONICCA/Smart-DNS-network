@@ -22,8 +22,8 @@
 > 1. Supports `Magisk` `KernelSU - NEXT` `APatch` dan `SukiSU`.
 > 2. Minimum Android `9 sdk 28`.
 > 3. Check for changes with the `Termux` command `su -c getprop | grep dns`.
-> 4. To check the changes from iptables `su` `iptables -t nat -L PREROUTING -n -v --line-numbers`.
-> 5. Same as above to check ip6tables `ip6tables -t nat -L PREROUTING -n -v --line-numbers`.
+> 4. To check iptables: run `su` first, then `iptables -t nat -L PREROUTING -n -v --line-numbers`.
+> 5. For ip6tables: `ip6tables -t nat -L PREROUTING -n -v --line-numbers`.
 <hr/>
 
 > Download the module here 📥:                  
