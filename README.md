@@ -1,30 +1,28 @@
 > ![Image](https://github.com/user-attachments/assets/d7944a8e-9148-418d-8433-a490fc539f78)
 
 > [!NOTE]
-> Description 📝:
 > - Smart DNS network is a Magisk module designed to improve system performance and network connectivity on Android devices. 
 <hr/>
 
 > [!IMPORTANT]
-> Features 🚀:
-> 1. Automatically configure custom DNS to speed up connections and block ads or trackers. ✔️
-> 2. Provide a local web page as a DNS control center accessible via a browser. ✔️
-> 3. Boosts internet speed using dynamic TCP algorithms and optimized buffers. ✔️
-> 4. Automatically flush the DNS resolver or reset Wi-Fi so DNS changes take effect immediately. ✔️
-> 5. Automatically disable Private DNS on Android 9–10 to avoid conflicts. ✔️
-> 6. Offer additional network tweaks for maximum stability and performance. ✔️
-> 7. Automatically verify that DNS is active and functioning correctly via an internal check system. ✔️
-> 8. Quick-uninstall option that removes all configurations and restores the system to its original state. ✔️
-> 9. Custom resolv.conf and sysctl.conf configuration files for full control over the network system. ✔️
-> 10. Advanced customization support through the customize.sh script for users who want to fine-tune settings. ✔️
+> Features ✨:
+> 1. Auto-setup custom DNS to speed up connections & block ads. ✔️
+> 2. Built-in local WebUI for DNS control via browser. ✔️
+> 3. Boosts speed with smart TCP tuning & buffer tweaks. ✔️
+> 4. Auto-flush DNS or reset Wi-Fi for instant effect. ✔️
+> 5. Disables Private DNS on Android 9–10 to prevent conflict. ✔️
+> 6. Extra network tweaks for stability & performance. ✔️
+> 7. DNS status auto-check system built-in. ✔️
+> 8. One-click uninstall with full config cleanup. ✔️
+> 9. Full control via custom resolv.conf & sysctl.conf. ✔️
+> 10. And many more features. ✔️
 <hr/>
 
 > [!TIP]
-> Installation ✳️:
-> 1. Make sure Magisk, KSU, or Apatch is Installed
-> 2. Download [Module](https://t.me/modulkuntul)
-> 3. Installation via Magisk/KSU/Apatch Manager
-> 4. Reboot the device after the installation is complete.
+> 1. Supports `Magisk` `KernelSU - NEXT` `APatch` dan `SukiSU`.
+> 2. Minimum Android `9 sdk 28`.
+> 3. Download the module here [TELEGRAM](https://t.me/modulkuntul)
+> 4. Check for changes with the `Termux` command `su -c sqlite3`.
 <hr/>
 
 > [!WARNING]
