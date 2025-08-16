@@ -2,6 +2,23 @@
 > - All significant changes to this project will be documented here.
 ---
 
+> [3.0.0]
+>
+> - Add module banner for KernelSU Next.
+> - Additional code improvements to `action.sh` to make it even better.
+> - Updated and improved some code in `customize.sh` to make it even better.
+> - Tidy up `README.md` and make some changes and updates.
+> - Improvements to `resetdns.sh` and better updates than before.
+> - Updates to `service.sh`.
+> - Fixed broken emoji unicode when during Obfuscation.
+> - Fix `setdns.sh` and remove some messages in it.
+> - Added icon removal in `uninstall.sh` and minor changes or updates.
+> - Improved `TWEAKS` which is more optimal and better than before.
+> - Added 2 new `DNS` options such as `DNS.SB` and `Uncensored DNS`.
+> - A more modern `WebUI` change with a new and minimalist color combination.
+> - Now `WebUI` is a bit smoother and simpler.
+---
+
 > [2.0.0]
 >
 > - Improved the more complete architecture detector a bit.
